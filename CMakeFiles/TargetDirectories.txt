@@ -1,0 +1,6 @@
+D:/Electronics/CubeMX_workspace/STM32G431CBU6_SPI_WITH_W5500/CMakeFiles/STM32G431CBU6_SPI_WITH_W5500.dir
+D:/Electronics/CubeMX_workspace/STM32G431CBU6_SPI_WITH_W5500/CMakeFiles/edit_cache.dir
+D:/Electronics/CubeMX_workspace/STM32G431CBU6_SPI_WITH_W5500/CMakeFiles/rebuild_cache.dir
+D:/Electronics/CubeMX_workspace/STM32G431CBU6_SPI_WITH_W5500/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+D:/Electronics/CubeMX_workspace/STM32G431CBU6_SPI_WITH_W5500/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/Electronics/CubeMX_workspace/STM32G431CBU6_SPI_WITH_W5500/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

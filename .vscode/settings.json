@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "net.h": "c",
+        "stdio.h": "c",
+        "main.h": "c",
+        "socket.h": "c",
+        "stdbool.h": "c",
+        "wizchip_conf.h": "c",
+        "cstdint": "c"
+    }
+}
